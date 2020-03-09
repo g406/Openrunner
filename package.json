@@ -92,7 +92,7 @@
     "shortid": "^2.2.8",
     "split": "^1.0.1",
     "symbol-tree": "^3.2.2",
-    "ws": "^7.1.2",
+    "ws": "^7.2.3",
     "yargs": "^14.0.0"
   },
   "optionalDependencies": {
