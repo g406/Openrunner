@@ -86,7 +86,7 @@
     "jsonbird-websocket": "^1.0.0",
     "performr-runner-metadata-parser": "^1.0.0",
     "performr-runner-result-graph": "^6.0.0",
-    "pino-pretty": "^3.4.0",
+    "pino-pretty": "^4.0.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "shortid": "^2.2.8",
